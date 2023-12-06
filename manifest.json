@@ -1,0 +1,2866 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/ActiveLogin.Authentication/ActiveLogin.Authentication/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdApiConverters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdApiConverters.html",
+          "hash": "TtRaXc7UpTtbhorfgiWu3YfmZIUTUmqGguesWrfZ4+g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdApiException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdApiException.html",
+          "hash": "uW1HjH4sflgJtvhrstB8mxqFgShGWg142SoJ2WMnong="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdAppApiClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdAppApiClient.html",
+          "hash": "Ne3o4ls5lsMJBxm8+1EV1aKooWrJHxSbyvk+mCPF5og="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdAppApiClientExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdAppApiClientExtensions.html",
+          "hash": "M9nU6lO89JpJ0Cekbh6/AwiYCUPSJ0OuHG32U453DDk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdSimulatedAppApiClient.CollectState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdSimulatedAppApiClient.CollectState.html",
+          "hash": "x/gizuojGUP5GVuWsZQm6SiWA3tIsrUZviICrvGCYJQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdSimulatedAppApiClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdSimulatedAppApiClient.html",
+          "hash": "GMCsXMefDsToFwQnaPW3ntE2R8fflpuu6nEZ2TAFWEk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdSimulatedVerifyApiClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdSimulatedVerifyApiClient.html",
+          "hash": "NFnjNPQMLoNKRIaqpSsZYhdSaj12+n234WSNEulgwrQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdUrls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdUrls.html",
+          "hash": "0tG3LVP+xlJ5Wa7Dtr7hFxzHpZU6VPpwH/epgZdgm6E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdUserVisibleDataFormats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdUserVisibleDataFormats.html",
+          "hash": "lg+1EmO1Hj7W/7SecKfzrviouAR7pfPFk7dcykjwKdU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdVerifyApiClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdVerifyApiClient.html",
+          "hash": "j9/LkrRxznnHE9mI/qN+VsrvYS63b6crVVPHi1DiX6U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdVerifyApiClientExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.BankIdVerifyApiClientExtensions.html",
+          "hash": "ihF4htvCOApByEeEFrKI3D7LWyMEWLH25ZBUDBmNWLo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.CertificatePolicies.BankIdCertificatePolicies.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.CertificatePolicies.BankIdCertificatePolicies.html",
+          "hash": "rQlVjHhsX0W6mVwaq+Rf1CZOjW4XsDnH7fRvecnOmoE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.CertificatePolicies.BankIdCertificatePolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.CertificatePolicies.BankIdCertificatePolicy.html",
+          "hash": "Zb9UpA1uNc250o09D32rWVnUV6r0jOOnynfKPBCdEFU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.CertificatePolicies.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.CertificatePolicies.html",
+          "hash": "w+NdGewLFun6sWfJqvBaK0xqa9O32lwUQnTU8TzxuGM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.IBankIdAppApiClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.IBankIdAppApiClient.html",
+          "hash": "JRqDSPrVcGdMVm9+A9MBIQwbAtROjNDvpMjK3FZaF2g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.IBankIdVerifyApiClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.IBankIdVerifyApiClient.html",
+          "hash": "VyEiPFnq6k6mzk6kbOO43h72QPfbe9vNncROHE9aY24="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.AuthRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.AuthRequest.html",
+          "hash": "SX8RWakuLxezv7vEmqVHD4ThCxf5r9TOMswkM2EnRck="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.AuthResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.AuthResponse.html",
+          "hash": "DQ7G763/o95UDzbh8j/9PfQuJzeau3K3HdeccHuSeb4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CancelRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CancelRequest.html",
+          "hash": "sCWZcHqS87Kel5gzM5nQP97BPwlPMDjBFlS/jS83p0U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CancelResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CancelResponse.html",
+          "hash": "68lszMUohWB/5umqGKA8iUEyIrBZl4NVvji++ymQ6CU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CollectCallInitiator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CollectCallInitiator.html",
+          "hash": "kyVni7WcnXn8f+LTn1U+JmPnfi0OqP+BPdYYOM8H5vs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CollectHintCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CollectHintCode.html",
+          "hash": "wPPBJYpCSAjDs/bSrs0yJxHqVviJgjGTvm0CLBulo3A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CollectRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CollectRequest.html",
+          "hash": "l8SY567ztFV5H40Pl2DLCuvQ9w0jaN9UeNX4rzTQ3TY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CollectResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CollectResponse.html",
+          "hash": "M4If/tMACwtP0p6mppUdGN4fLasgdWvr4/mNUT8wKvY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CollectResponseExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CollectResponseExtensions.html",
+          "hash": "2E3Ty1LmS1aauu+6SMPjO+7s/Z+H2MEaXVQN9bBP9/M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CollectStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CollectStatus.html",
+          "hash": "drVlPwg0jU35WdOpv8w9VHfel7fpjkoVZgsLv10h304="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CompletionData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CompletionData.html",
+          "hash": "JeRguNVr0mCwvHtja5ZOUn4AbPr+hyZ4LMRrKuKBoAE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CompletionDataExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.CompletionDataExtensions.html",
+          "hash": "ASx20c/8u2/yTLgIn7YVnJknXGmSnVDhYvpHpYGDyZg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.Device.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.Device.html",
+          "hash": "Ql4rCGubwdnjg2QLoGJ+fFaCUzvaRL7WDqXiYpvon6g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.ErrorCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.ErrorCode.html",
+          "hash": "xfvm4Nlqj2u+ajHtT1p+iqZaItOLZ92ls+rQRKmoLfA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.Request.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.Request.html",
+          "hash": "OAt1Dtx74/IudNEqPnkVABKlygUgIkSyAJDMOGo/h2g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.Requirement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.Requirement.html",
+          "hash": "Q4/EG6wJG+Z3zJbcRAoJmyRfaAASkY6sNxcQlfGiWBE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.Response.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.Response.html",
+          "hash": "8ciCVwRtxMydtIvjjKBvKFD6XfzESS0vo7mBLkxa/GI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.SignRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.SignRequest.html",
+          "hash": "k11hqb1q08qdwH7zAgx73e0Kqb6eunZPvowa6HKjU4I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.SignResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.SignResponse.html",
+          "hash": "JIlaSpEle5Su535jn9lJ85Sc/YzIFWZxJ56aIt5Zkrs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.StepUp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.StepUp.html",
+          "hash": "8rGzRYlpJ4vFZ4ydj4+Mt6v34shYD7mDFOWImE7vV7c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.User.html",
+          "hash": "wr4IdWsXCRlurYeHOGZ64zjDHwneqTArhOLpxtnfVN0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.VerifyAuthentication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.VerifyAuthentication.html",
+          "hash": "y/6rpUmHU2S9QfENu8bcEy977OW2YTO/dJ18oc6sP5w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.VerifyAuthenticationExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.VerifyAuthenticationExtensions.html",
+          "hash": "tH2Zm3kuL9k23R7W373WmGjnUhRQz5O/c85q5M9Ip0s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.VerifyRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.VerifyRequest.html",
+          "hash": "V5gg3Jtc1AYq6EMYJQMPcU2pft6K/7HsHWb20AesZ3M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.VerifyResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.VerifyResponse.html",
+          "hash": "2tt/erZWk9qrOQjgbnu49FhhjIeDBqYpE1cYuWn1Rcs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.VerifyUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.VerifyUser.html",
+          "hash": "Hzl5z8avRae2/CTxhaLqI35QAtjlEWaTxjDZt+uVuG0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.VerifyVerification.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.VerifyVerification.html",
+          "hash": "Sr0hwk+JHkut53nTEmtRa4mQ91ZyK43+eGy12dcmb90="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.VerifyVerificationExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.VerifyVerificationExtensions.html",
+          "hash": "U9C5+ncr2VNiIsq4OaI6UltjvGVyOMfWPZ+dugnpKY4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.Models.html",
+          "hash": "mjR0T/cFs6jB7rurJy9jMFCczjFN5JXXhfKBSaGNa3I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.UserMessage.BankIdRecommendedUserMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.UserMessage.BankIdRecommendedUserMessage.html",
+          "hash": "wK3GHtMpc8y0vC2ptJ97Gaf7Eqi3S2BPGQDEPKQ+3LU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.UserMessage.IBankIdUserMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.UserMessage.IBankIdUserMessage.html",
+          "hash": "U3QdIAlcM5FE1KnkCMe20zcNQGkq4qDnZq4CaqAuK6A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.UserMessage.MessageShortName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.UserMessage.MessageShortName.html",
+          "hash": "vwY/kj+vQxQYMHkUxFeYfGsBwzEvsSEDSOjK6KVDv7E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.UserMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.UserMessage.html",
+          "hash": "ZBlwXjt9mh41tAuOk6T9mgobOCYz/EjVLXifEjP1Whs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Api.html",
+          "hash": "zkVdpGK7O3GTBp7nZVZtlum6kutEV9/UspQvxu6j+Dw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.ActiveLoginResources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.ActiveLoginResources.html",
+          "hash": "67Afi+OeaPnHdzMZAiFrynVTcNZa6fbU5lbRH1x7jgs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Controllers.BankIdUiApiControllerBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Controllers.BankIdUiApiControllerBase.html",
+          "hash": "UR5rBcgKSYSouvw2cSTmxwgdMzf9aAc7MU1VU/FZ+KU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Controllers.BankIdUiAuthApiController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Controllers.BankIdUiAuthApiController.html",
+          "hash": "UhVEkHcFRAxb+/hpAkPeHWxFx43t04rog9M2BALUe90="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Controllers.BankIdUiAuthController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Controllers.BankIdUiAuthController.html",
+          "hash": "EZQNIcKfixiJKFDr4joFn3gV5MfBYqWLO9txdCrHNDk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Controllers.BankIdUiControllerBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Controllers.BankIdUiControllerBase.html",
+          "hash": "FWx7+nAZfOjNExZP0zlzrfgVYOAwOkXtE2fUjq62MX4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Controllers.BankIdUiSignApiController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Controllers.BankIdUiSignApiController.html",
+          "hash": "5hu2k6RDcUhlg0CvIHXa/8H/gjMfwEnFWiOoAJWXlw4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Controllers.BankIdUiSignController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Controllers.BankIdUiSignController.html",
+          "hash": "pFi1YKkXRQNp7JS7RtdFFgWWaWWqo+vwZX9z3ziY7ck="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Controllers.html",
+          "hash": "ZaB8IS8SPw5dyXNZd4HDykncH2I46ft8wnMvEpGwdN8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiCancelRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiCancelRequest.html",
+          "hash": "Y9OO3FF9rNa8XLX3AquP/3Wt6VO85hd9YCaZKS04chA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiErrorResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiErrorResponse.html",
+          "hash": "bc2FifUWQTlpzHchLU2Jt1alLBE/NEClfZYyG1IjRcQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiInitializeRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiInitializeRequest.html",
+          "hash": "kSjLnh+/3H894Pc1rm0DL8XQuPMcAz8Tv8dJUgDIJSY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiInitializeResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiInitializeResponse.html",
+          "hash": "O82kaJFsswiKccPbaqm7B3jWk7hMWUHSiGRjk/fSJek="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiQrCodeRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiQrCodeRequest.html",
+          "hash": "7G2Mye3IglRo6zFtwpzCaTKnnUg/cYTHqIR3VOHcN60="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiQrCodeResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiQrCodeResponse.html",
+          "hash": "xzp6yS3dpo6MN5VbmBM8qYYS2PUCqmYol8fSm+Okb5M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiStatusRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiStatusRequest.html",
+          "hash": "IxB3wX3lzaqchG9lZ2Ko3Csp/c5YEfYbTM5NAtfTa7Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiStatusResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiApiStatusResponse.html",
+          "hash": "d0cO3qKsDg7Hwbk5eqwi5ZhHsj7SxF1GvlqNKQqzFzM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiCancelResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiCancelResponse.html",
+          "hash": "ulRGAAtPIG2erl6KM25xZqTzxJDJy0Ju4FSGPf8OQm8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiOrderRef.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiOrderRef.html",
+          "hash": "OtQptaXfMpGFTaN4YR4/7oQKQTHqNtAuNJsSBs7cApU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiScriptConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiScriptConfiguration.html",
+          "hash": "rrEc5vUYJSH5Kf7pf5UQJ/1F+WvwN24qf/MigG5N9pE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiScriptInitState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiScriptInitState.html",
+          "hash": "qGuBlrypsmLSGx8FTD05ll5Olw8g/PFXObi8ChTsIjk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiSignData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiSignData.html",
+          "hash": "JkTipOgQ5KcICv8j1xccstjbHExIjq4wa+1YZ4BXLmo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiViewModel.html",
+          "hash": "7yhnD3Bb2hwyCH11uIyj83QGdiJUWr2mE4Utx6EGz7k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiViewModelExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.BankIdUiViewModelExtensions.html",
+          "hash": "BVkoJ4XBXPMNNZ0iTd0iyDfkP/49i7HNFxC7T+KWrFM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Areas.ActiveLogin.Models.html",
+          "hash": "etZKQZkdIvGElCKERM0CdO7t/YgbdaE983K0WNmS3wg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.AuthenticationBuilderBankIdAuthExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.AuthenticationBuilderBankIdAuthExtensions.html",
+          "hash": "On+BVWSZlrvgomYYFR7FkCnMEV1iy2gQC4QUGoB6v74="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.BankIdAuthDefaults.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.BankIdAuthDefaults.html",
+          "hash": "zd4ejQxBi7qBLq340J2Pzrf6HIuLgcrXoa+Zrzhr8kk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.BankIdAuthHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.BankIdAuthHandler.html",
+          "hash": "Vu7q5dJ6bf0AvTczUTqUCOuSBy3js0BdG2NgknGZCFg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.BankIdAuthOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.BankIdAuthOptions.html",
+          "hash": "UXqiGWFLjqjIz81c/gzdB2RRok0FrWqIOVOm+zBq92M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.BankIdUiAuthState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.BankIdUiAuthState.html",
+          "hash": "qmTV1mPpYUYV/d7n+Dsfqz2gajIYM+shcFOgwMETl4s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.IBankIdAuthBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.IBankIdAuthBuilder.html",
+          "hash": "wA397+ozy2biGdujn20gg1hmBlegCZUiHV98I7AnVR0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.IBankIdAuthBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.IBankIdAuthBuilderExtensions.html",
+          "hash": "u58Y7liEfw5/0i2re51KxvRCtdWyGJbSR8A8ExgZBfc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Auth.html",
+          "hash": "8zekTZ/0RJ4ADLpi5q+3Oi+8jbUA+wXUObqvwY52GJw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.BankIdClaimTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.BankIdClaimTypes.html",
+          "hash": "6xksSLmw5qVB6dHELnWpJD8OGpr0WPnGdCVilXMfsqE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.ClaimsTransformation.BankIdClaimsTransformationContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.ClaimsTransformation.BankIdClaimsTransformationContext.html",
+          "hash": "x2Ae/8/OrwL5EvIaT3VaB1gd8WDQ4T3BvM/eaKNbefM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.ClaimsTransformation.BankIdClaimsTransformationContextExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.ClaimsTransformation.BankIdClaimsTransformationContextExtensions.html",
+          "hash": "tsOJLdD0/8XK5Dovxst752GOfAEJe1dLLoN8i2miHTo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.ClaimsTransformation.BankIdDefaultClaimsTransformer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.ClaimsTransformation.BankIdDefaultClaimsTransformer.html",
+          "hash": "e/Xm8El5//j7eOh+r0Zc/FqcOn+65OOdE34fpuM7UCI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.ClaimsTransformation.IBankIdClaimsTransformer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.ClaimsTransformation.IBankIdClaimsTransformer.html",
+          "hash": "wgYCETZtrGMgwZ3fzMp4OKu3MvXGdJtZuRfwMe2k6H0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.ClaimsTransformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.ClaimsTransformation.html",
+          "hash": "f759RgH22Ds6/t9DZq83Xz+3+2kxYpFSUD9ArKBzWQw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.DataProtection.IBankIdQrStartStateProtector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.DataProtection.IBankIdQrStartStateProtector.html",
+          "hash": "69FUQHx1/GX4SUmIsa/iN06m7fEk3LfDzgzTJaVefCo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.DataProtection.IBankIdUiOptionsProtector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.DataProtection.IBankIdUiOptionsProtector.html",
+          "hash": "3Q33xmWR1ts3jF27ZtW9uhq9nOdUJ9S5JnKolQPRpAc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.DataProtection.IBankIdUiOrderRefProtector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.DataProtection.IBankIdUiOrderRefProtector.html",
+          "hash": "rUjqCfTrxYas+PyVjkX7vLtR6neKJScal07n4uiAloU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.DataProtection.IBankIdUiResultProtector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.DataProtection.IBankIdUiResultProtector.html",
+          "hash": "JKTytzrFC2VaHwCG2eG5NgK5fF5IU8VKn4TNztzyDjE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.DataProtection.IBankIdUiStateProtector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.DataProtection.IBankIdUiStateProtector.html",
+          "hash": "Rm9IGqnfht4KlVc0ZFz/FFHVO+nfef/FkSwIhoAg8J8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.DataProtection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.DataProtection.html",
+          "hash": "I6GbgwFFDbmUt8bCPwjut9EW+yuar1LzxcHOZd5hMrk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.IBankIdBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.IBankIdBuilderExtensions.html",
+          "hash": "umU3Uxc8++eCX4ls9FSeTu7dKSB1bX13tCL9T/4Wj7s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Launcher.BankIdLauncherUserAgentCustomAppCallback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Launcher.BankIdLauncherUserAgentCustomAppCallback.html",
+          "hash": "nDAC1zaPlhWmDgBO7BehP9KnSDc4p7DY5VdoL6r8LSo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Launcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Launcher.html",
+          "hash": "cVd1wth6dSPj9Dwu17Zm6sASGp37TwWLs/kMtoepLzA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Models.BankIdStateType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Models.BankIdStateType.html",
+          "hash": "QMoksc4MvEVh5JP+ix+MtFzPW42FHs3zPALklY5ii6I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Models.BankIdUiOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Models.BankIdUiOptions.html",
+          "hash": "26yyYgYRHQaB+kFxaKSiUND/BHV7OB3xYjhEdDj6zsY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Models.BankIdUiOptionsExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Models.BankIdUiOptionsExtensions.html",
+          "hash": "7enO4lVKVivLREp3fMvSk3QYBk9jKNLl9Mg1OisP91E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Models.BankIdUiResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Models.BankIdUiResult.html",
+          "hash": "EznIen8UzpAaG7P67Ch2FmoWm7HHtIEqwGEBAn7aHf0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Models.BankIdUiState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Models.BankIdUiState.html",
+          "hash": "U15ckpbCaihjdTgCO7QomVlfpNRmlHZoAyW6UHapQzk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Models.html",
+          "hash": "QLWdseDqp3hvSofBv6parXlHYKbJ9WwUzWyIYKEWx9Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdInitiateSignResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdInitiateSignResult.html",
+          "hash": "aG4kqexLnKU1QEFQ2RV/LfAoWiMb2+1biyzf3sQBhX0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdSignConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdSignConfiguration.html",
+          "hash": "F8wkTd3Icu55Nm1nsDHfIbuLAd91fIGccdR7fC4cIE0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdSignDefaults.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdSignDefaults.html",
+          "hash": "biyNYFrsrHnjCbsvxiWMR9qosXe0mnv2WLKieMudck8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdSignOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdSignOptions.html",
+          "hash": "5DXlbjBlpVD2erowH5qcJLkY2qTckwqfw3wrH522dTI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdSignProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdSignProperties.html",
+          "hash": "TD8CBg5pGWtogBGy4I92raOlxE4APzhN5jlilQzu83M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdSignResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdSignResult.html",
+          "hash": "Q3lhGOzR/mX+gIEVd0XbjbJzuLCmqSw9H9Z67zZoB1A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdSignService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdSignService.html",
+          "hash": "vLYzUFMBjLSNfUOKxAOxgloMOm/0575A7NgS3yYkhYI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdUiSignState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.BankIdUiSignState.html",
+          "hash": "9I+SkXTixdbLW3wy1N2MRb44cmBHPJ4r5aw/Rb7EgMY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.ControllerBaseExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.ControllerBaseExtensions.html",
+          "hash": "2yYCHT4rzsmhXXnBiJuRZWDAUudEzfUPRVM4mM/l9No="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.IBankIdSignBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.IBankIdSignBuilder.html",
+          "hash": "l93BK67wvhz8GifxedrmA8380V4/Ah6VOXUpzmi3Ejg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.IBankIdSignBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.IBankIdSignBuilderExtensions.html",
+          "hash": "715E0R6/CC5NMOQV2dJCZVJze58ZDcQpDQOwXEQ6Cn0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.IBankIdSignConfigurationProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.IBankIdSignConfigurationProvider.html",
+          "hash": "sEOdG1TKM7VWwwhHn/Id5zm8XG9xu5h4ZWnh+cpgoto="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.IBankIdSignService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.IBankIdSignService.html",
+          "hash": "DzoM4uFnxb7WQZQorf0f3hrRqvGxtXrelnLNzGfKhi0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.ServiceCollectionBankIdSignExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.ServiceCollectionBankIdSignExtensions.html",
+          "hash": "pxLgL/Wq2VOyufLGVuG52L6C1dTpX64ZDj8aaAKVB7g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.Sign.html",
+          "hash": "hni2M54qWracOXOt46lMQ8CpkauI/5fcjOTnrkYZlaY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.StateHandling.BankIdCancelUrlInvalidStateHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.StateHandling.BankIdCancelUrlInvalidStateHandler.html",
+          "hash": "kcqOgc8781YE/1pz0+YQgpTk4iCUXSzaOBmAHyBWzgw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.StateHandling.BankIdInvalidStateContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.StateHandling.BankIdInvalidStateContext.html",
+          "hash": "7mTY9ISFxi96A/F/r8rHSZWJkIX9VTLcY3MQYmG0OHE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.StateHandling.IBankIdInvalidStateHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.StateHandling.IBankIdInvalidStateHandler.html",
+          "hash": "xKRCFU9pTneRwdme+HIIPJPnwaFmlPLV935Rlx8zKwk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.StateHandling.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.StateHandling.html",
+          "hash": "uz+BG3sxJQ9AQXJKKpQto3ZNCmz8BVQxeM01WqnnVn4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.SupportedDevice.BankIdSupportedDeviceDetector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.SupportedDevice.BankIdSupportedDeviceDetector.html",
+          "hash": "+xsiV4yO0g+4KnpPEYmmVXbfr9b62pBHFUeDFZbI7tk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.SupportedDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.SupportedDevice.html",
+          "hash": "Umu5blc71mGtR1DsqMJOQHkbxEJrRvlQkgYPfIrHjzQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.UserContext.BankIdRemoteIpAddressEndUserIpResolver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.UserContext.BankIdRemoteIpAddressEndUserIpResolver.html",
+          "hash": "cWuS2Womr7a3A8MehaP3y5PkTz0U5KjKDSR2CMyAty4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.UserContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.UserContext.html",
+          "hash": "uBD8d88xdBBIZWn3QgLs9oKQu6VVVnWG7KbFEgCsU+U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AspNetCore.html",
+          "hash": "40iZj3c9se6FZyrKqAa9PwDkHs4PTjMWsA+nRm3wx8c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AzureKeyVault.BankIdBuilderAzureKeyVaultExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AzureKeyVault.BankIdBuilderAzureKeyVaultExtensions.html",
+          "hash": "CSSNqSSh5Q9WkhmC0HLwlPDo55t3mOAKNxT2z2qo7vs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AzureKeyVault.ClientCertificateFromAzureKeyVaultOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AzureKeyVault.ClientCertificateFromAzureKeyVaultOptions.html",
+          "hash": "c3pJWwBNahOuonqghF5/e1Qbbeavd6SVmzpQoIOqdHQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AzureKeyVault.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AzureKeyVault.html",
+          "hash": "4DCRbRpUrXhXdONlZjiyZHY09mb6p1VE0m5UevAQzKo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AzureMonitor.ApplicationInsightsBankIdEventListenerOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AzureMonitor.ApplicationInsightsBankIdEventListenerOptions.html",
+          "hash": "2pb9hoCyGhcJ3OsZRx6jrdyx4tzAwpa0kdnVbwKF02w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AzureMonitor.BankIdApplicationInsightsEventListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AzureMonitor.BankIdApplicationInsightsEventListener.html",
+          "hash": "l8QSNOIxFwP4oxFMO5EeWPQQxZ16oSyTC0YpX3Ky6cg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AzureMonitor.BankIdBuilderAzureMonitorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AzureMonitor.BankIdBuilderAzureMonitorExtensions.html",
+          "hash": "4tBjMesv5AurLF1JueNnXf6Yb5DkziVeq3P+RDvVZQk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.AzureMonitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.AzureMonitor.html",
+          "hash": "6TRxicPfkIelcb8OFOmChTxoUE+inZEMETSXctioWnU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.BankIdActiveLoginContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.BankIdActiveLoginContext.html",
+          "hash": "7Qk5pIPwfqdIt3XGIxN6Q8pQYIPhteFXsihxhceCABM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdAspNetAuthenticateFailureEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdAspNetAuthenticateFailureEvent.html",
+          "hash": "1p3Y5BaADRECqbPx3lx30NbuTA1K6GML+XyT6wxllFM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdAspNetAuthenticateSuccessEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdAspNetAuthenticateSuccessEvent.html",
+          "hash": "YKQGO03JyAtCM6275gsLd7eT9A+N8iKCOiOkQ+WSX6Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdAspNetChallengeSuccessEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdAspNetChallengeSuccessEvent.html",
+          "hash": "jg6KC8rGYd6aB9b4sKbgzWjSOhAmisNsiV2TiPX2l6c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdCancelErrorEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdCancelErrorEvent.html",
+          "hash": "ZiUifOXSUTdc+LtFZB7AH+ubrBYfXwWUAj47BXxtdLk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdCancelSuccessEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdCancelSuccessEvent.html",
+          "hash": "18mAVCGONFXDEY0zP70SGmL2f4H1hqzSFQriEKU0Fbc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdCollectCompletedEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdCollectCompletedEvent.html",
+          "hash": "f73pVCitpY3T0jpllPHJ/SwOryLUrZBOR0+qTVElAow="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdCollectErrorEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdCollectErrorEvent.html",
+          "hash": "pYySgMRmuXecv/N/Dplj4gGbqWWPu22Xb+GYwvZBH+0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdCollectFailureEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdCollectFailureEvent.html",
+          "hash": "EvrQ5QtZkjqf2AmodgGVtM/e7I0E+2Z+IIttZTkr1rE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdCollectPendingEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdCollectPendingEvent.html",
+          "hash": "P2OpmrApFJpPdeUEazb8pnUOUlgqYjJxhDJ+lapxg7U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdInitializeErrorEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdInitializeErrorEvent.html",
+          "hash": "cpgfeDlZRpbDPMXRjRhQFXbF5MKPIsed2UDv8rBxtpI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdInitializeSuccessEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdInitializeSuccessEvent.html",
+          "hash": "UYeDzT1QX4l94KuKpwCRcWzf0bxYy9N2ZmFhD7NCI0A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdSignFailureEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdSignFailureEvent.html",
+          "hash": "4qByvUVnER8yKRrNtvMbfDSazufqze/hg0ObzVdy3BE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdSignSuccessEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.BankIdSignSuccessEvent.html",
+          "hash": "ChzFnKkoe3184ZP0EqF9nuatL937zo+xgUuLDy0pDSI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.BankIdDebugEventListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.BankIdDebugEventListener.html",
+          "hash": "qlM62uv1Oyj2j/fXZeuvXAXP2wNk3uucNGNTr6JD/Bw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.BankIdEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.BankIdEvent.html",
+          "hash": "d77DyB71aHJkVDA+mvsVMEZ4WByIve56M56oD00DB2A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.BankIdEventSeverity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.BankIdEventSeverity.html",
+          "hash": "opOh1wAJTXNndUJBWJjkH9RaniqCKo3cGxN5AYnH8CM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.BankIdLoggerEventListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.BankIdLoggerEventListener.html",
+          "hash": "Ov4aFVm4R4OcvnJMXq8O/9ssa3xGfYW14uVQXOpFsBk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.BankIdResultStoreEventListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.BankIdResultStoreEventListener.html",
+          "hash": "9HqV3QgXDXat0cKmELzKfrXfVe9nG2riWXAnhDzkYv4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.BankIdTypedEventListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.BankIdTypedEventListener.html",
+          "hash": "57r48zMkNLKz64emhm7bxkJM+tPHzXe7+cQQ9/9C8qU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.IBankIdEventListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.IBankIdEventListener.html",
+          "hash": "d9u1VunG9AmRnzEpUbKcQfK2yc2ip/ffyemkbPx6Qrs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.IBankIdEventTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.IBankIdEventTrigger.html",
+          "hash": "wU4uHTOPk/HatB+aU/fR3+KcoMeJfDnkkmAJ5phwdQ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.Infrastructure.html",
+          "hash": "mTxUEjL7Fj3b3cwyDX8Os3iPXlFbP7IAdXUHKlELvWU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Events.html",
+          "hash": "pgKw6uyU1RgPChD2La+F92JwQaC7s0aSTuog4nOIKag="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowCollectResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowCollectResult.html",
+          "hash": "34GI7FxEU53zeAbF236xlgXUk1lNfHfWVMehHRzvkX8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowCollectResultComplete.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowCollectResultComplete.html",
+          "hash": "2AHa4g5bHxCUpE+UrsD3KD33dGFRuWjaVIAHe+cUzqE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowCollectResultFailure.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowCollectResultFailure.html",
+          "hash": "z5vpUo0CabyMLivcRUFgqz53l8bk5pKoCaL10flk2wg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowCollectResultPending.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowCollectResultPending.html",
+          "hash": "L6QwJEQG6yWzcyKb7ILozwWnB8sebgN5E2hqA33DKiQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowCollectResultRetry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowCollectResultRetry.html",
+          "hash": "dmtCCgMNbQF0lJjJRfuftMMZB61CREyLZxKwMaNPrEY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowInitializeLaunchType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowInitializeLaunchType.html",
+          "hash": "1LuwXZJNmlAwxNHYOLRuobolErFQ5rOtOmQtfH+DZRw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowInitializeLaunchTypeOtherDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowInitializeLaunchTypeOtherDevice.html",
+          "hash": "/gJAo4S2W1QdrzdnklWZK+tlGr0X6EvZoC3J9sbodv8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowInitializeLaunchTypeSameDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowInitializeLaunchTypeSameDevice.html",
+          "hash": "pweXau5BvFYMtIRwdt1VFSnBNOPFEt27iRmPg2wh24s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowInitializeResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowInitializeResult.html",
+          "hash": "kG0TEQVM2tAtP7bLit7TSj3OVhv+IvH1PEpxztFTP9Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowService.html",
+          "hash": "6VUiLG6yFJ3EcdCSyl2IzsWhqeLnqug8ADwqe4cnNT4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowSystemClock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.BankIdFlowSystemClock.html",
+          "hash": "56ftYPfvl5UguqFx8kaRZsj0L+X7R6k3+myOW6iyeCc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.IBankIdFlowService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.IBankIdFlowService.html",
+          "hash": "BSA/cZrcv03lDktokNiij+hR961wBdrHTCrc9rBtLe0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.IBankIdFlowSystemClock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.IBankIdFlowSystemClock.html",
+          "hash": "c94/mabtNVCQ2Q3Hp0aXhQIu9QjBbsU0xU4/mf1pqi0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Flow.html",
+          "hash": "QomgN/C1XNus3HD3DQ1kAObx0sFz/jnEHjmOoDyJFeI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Helpers.QueryStringGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Helpers.QueryStringGenerator.html",
+          "hash": "+XxHy80EayxMpeynO1c562+14kzY7rYCdT4qoRPmpRA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Helpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Helpers.html",
+          "hash": "87ljMvO4RLjTyX0I/uzTudyNnkFveGbuxc5ExR3jojc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.IBankIdBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.IBankIdBuilder.html",
+          "hash": "5tgSWaJqrd1B79EYk53BoKwo1FGIzIhJcDB3xWoToaE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.IBankIdBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.IBankIdBuilderExtensions.html",
+          "hash": "oA395/7s2TKjoEgrK1a2kUb970LKLeXcIN9/y8gkCvg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Launcher.BankIdLaunchInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Launcher.BankIdLaunchInfo.html",
+          "hash": "fIauJwCYuoLJJr6yCxz9qAfAaKkS/b0d//x6FXGCTc4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Launcher.BankIdLauncherCustomAppCallbackContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Launcher.BankIdLauncherCustomAppCallbackContext.html",
+          "hash": "8qHEmWIbFjGgoz2FmD+ivwwJtK1haf74ZpSvITpA6ws="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Launcher.IBankIdLauncher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Launcher.IBankIdLauncher.html",
+          "hash": "XTlfJwpyzF6lY4nfh+83V0qtLIOte4gNmXPhERc/198="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Launcher.IBankIdLauncherCustomAppCallback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Launcher.IBankIdLauncherCustomAppCallback.html",
+          "hash": "+rRPyQE5lFJu2SSmP0DVLcMJ3JSFjbs1JQBuvvc2IRk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Launcher.LaunchUrlRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Launcher.LaunchUrlRequest.html",
+          "hash": "CiJyOJgyrIwMzvKnLmj5HhOm2aYZvta2ojZgmBZHCfU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Launcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Launcher.html",
+          "hash": "tOCRpeWMiDoz+UYn2ZzK8aG/+aBVdZPg9d2XALnnNVU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Models.BankIdFlowOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Models.BankIdFlowOptions.html",
+          "hash": "IkQy6VNn1B5i71CEvQEyXu9LfNCtg6B4kA/a3zN+6V4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Models.BankIdQrStartState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Models.BankIdQrStartState.html",
+          "hash": "m6BTqctGnaCOX0etnedYbP2MJOt1dq6q9EcfpRzIADA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Models.BankIdSignData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Models.BankIdSignData.html",
+          "hash": "QOChfdhoAfcO7QLTTgEut2YeXpbQA+LLwNT2gpj8Xmg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Models.html",
+          "hash": "8N9NyaZalEyVr7krWtesptlEY40avQPXSwhouXEBJOw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Qr.BankIdMissingQrCodeGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Qr.BankIdMissingQrCodeGenerator.html",
+          "hash": "GlOc1C+wZ7EvB/HLwtvzSpDMoOlddUmP50i4Hirtkb8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Qr.IBankIdQrCodeGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Qr.IBankIdQrCodeGenerator.html",
+          "hash": "43tH4XxEPQ1CM4tnI+b1xLC9IVD/k/219uzrbu1Yv6U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.Qr.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.Qr.html",
+          "hash": "fUA5fkD5tuNw4O9J98YKBtpS3+K+ufCe7VcyX0pPA6A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.ResultStore.IBankIdResultStore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.ResultStore.IBankIdResultStore.html",
+          "hash": "WKSpc8LeZDSoTIbPYU1EWirZIbxvvpbvYwx0BXPEelo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.ResultStore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.ResultStore.html",
+          "hash": "vuQ9d2jCnMbPtEerrYPyBHVDgJnKbac3uazpuXCMU6o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.ServiceCollectionBankIdExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.ServiceCollectionBankIdExtensions.html",
+          "hash": "Qxd2DJjDhVjKMy9/OGK2kwiztflFw/ESxfwEsXvLiSI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.BankIdSupportedDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.BankIdSupportedDevice.html",
+          "hash": "GXZgwWDgyXX7MWLZ/DwRzH5H0Vm6E/0jo41BUfMONUg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.BankIdSupportedDeviceBrowser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.BankIdSupportedDeviceBrowser.html",
+          "hash": "graqUFRpFYv32VKbdkUBWjUEezisH4Ju2v5iqujZmqE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.BankIdSupportedDeviceOs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.BankIdSupportedDeviceOs.html",
+          "hash": "/lnC1VDLegnffJ+vlrDzTJAeLGfvYo1jS4sGfcqqtj4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.BankIdSupportedDeviceOsVersion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.BankIdSupportedDeviceOsVersion.html",
+          "hash": "yntFfBHnbZpyqRi5Hs54hpV/QkW8jpCvnU3O8InfBMg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.BankIdSupportedDeviceType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.BankIdSupportedDeviceType.html",
+          "hash": "lZWQFa+vuhds50+mpQxJSRrGS1rCPYrwxx8EcJh+K8U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.IBankIdSupportedDeviceDetector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.IBankIdSupportedDeviceDetector.html",
+          "hash": "EV1tllv1reaSvXjJwCz0lQmM3//nqavgidhQWoANAWQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.IBankIdSupportedDeviceDetectorByUserAgent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.IBankIdSupportedDeviceDetectorByUserAgent.html",
+          "hash": "XfTk+5tUHji3f4+kiP6mpjx3F1l8oMv6gWiSaTdzfjo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.SupportedDevice.html",
+          "hash": "vxsiwDUuKLMlHCcto6HhQJEjO/6VBatmxxcvjBgF7FE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserContext.IBankIdEndUserIpResolver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserContext.IBankIdEndUserIpResolver.html",
+          "hash": "T1JjTeFF8Grx+01YFIspd/0tYkp+GN7cyteGelQocDk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserContext.html",
+          "hash": "3MdXGSFemGYnD4f9vnxST8+WboRkKCw5M9ZOUW7KYiY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserData.BankIdAuthRequestContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserData.BankIdAuthRequestContext.html",
+          "hash": "B5nqI4bCW8AWQYk464Z8psEf4kopT9POmb/Ri5UoGE4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserData.BankIdAuthRequestEmptyUserDataResolver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserData.BankIdAuthRequestEmptyUserDataResolver.html",
+          "hash": "D0Uh1DmzKZqCzgUPdzNeFIDN9y3kKh4WhbRMpIJJeZ4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserData.BankIdAuthRequestStaticUserDataResolver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserData.BankIdAuthRequestStaticUserDataResolver.html",
+          "hash": "/BHXOXxyCRi6d1GRu3mGq879+fow0HOC8DdWEMOBIIY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserData.BankIdAuthUserData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserData.BankIdAuthUserData.html",
+          "hash": "o3+l9094gOTbJfbb3A8/x7TkPRqt90AygfUBw85D0JU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserData.IBankIdAuthRequestUserDataResolver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserData.IBankIdAuthRequestUserDataResolver.html",
+          "hash": "/ZQd3BOz5JgaFNBxWKDvXE2GdpGxKvvQhe6Un5PvWvU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserData.html",
+          "hash": "ZEWtT6Try1aLZ5kkTBX97Kzx0Bch90iLb/qp3HT+LdI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserMessage.BankIdUserMessageLocalizer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserMessage.BankIdUserMessageLocalizer.html",
+          "hash": "F4wpF8xJbAQfRw/RLnC2D63+TL5N0ppRAKy7p8G6T4U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserMessage.IBankIdUserMessageLocalizer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserMessage.IBankIdUserMessageLocalizer.html",
+          "hash": "8PzAgsqIA97Gq53Qg15x98JCuSw26eamMbGeJWJ32IA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.UserMessage.html",
+          "hash": "EYaWJOg2S70lCbnGDRGQ66vsC/9PijdrCBzp77ZlIxs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.Core.html",
+          "hash": "wgN79B+TZj8fy+V6z3Atjkixg+SJYWzQ4GZAAittmoQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.QrCoder.BankIdBuilderQrCoderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.QrCoder.BankIdBuilderQrCoderExtensions.html",
+          "hash": "oENoP0ivakNskE6QxIv2QqLshWZ9DDdAyDQUn1yccF0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.QrCoder.QrCoderBankIdQrCodeGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.QrCoder.QrCoderBankIdQrCodeGenerator.html",
+          "hash": "RSQA3L4cTVlIDW5uVGc1+aagowl9cmQkmdeF4dvHUDM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.QrCoder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.QrCoder.html",
+          "hash": "oQshJ1TeOz3ZFP+8592VQCtuVPD5gUnUzSOOa3w+9gU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.UaParser.BankIdBuilderUaParserExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.UaParser.BankIdBuilderUaParserExtensions.html",
+          "hash": "lVR7DpROLeO1mTU5QkNj/DDqEZU9iJNUVJViCWmQRlg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.UaParser.UAParserDeviceDetector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.UaParser.UAParserDeviceDetector.html",
+          "hash": "J6qmXbycfO2LVFNg6tljhiVwp9qKu7bgYImj7qCJ3Zg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ActiveLogin.Authentication.BankId.UaParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ActiveLogin.Authentication.BankId.UaParser.html",
+          "hash": "XOlOetJb7zTpO2av/Bluy8LMkh2DrF/+plCVs8Pblv8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "I4LsYTQ/UJ1aKSMRJnXUA7PP2+9txaFYZdycVeXKVCQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/BREAKINGCHANGES.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/BREAKINGCHANGES.html",
+          "hash": "puzybdeYIysU09RS2YVT9ZzW2ckPUyf624Y8thTfj94="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/CODE_OF_CONDUCT.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/CODE_OF_CONDUCT.html",
+          "hash": "V37vCy04tLPsozVeQNo1kq9BQUyKPganm2F9WRveI9k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/CONTRIBUTING.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/CONTRIBUTING.html",
+          "hash": "sPrD3fmF9QMmO42NVhGOKcAeOobixfJo1h3nq2HPgUY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/LICENSE.html",
+          "hash": "UNVL7i0KvIjkI9uDIkGDPA6l0mwPutKDnxTkzpZOiHU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/README.html",
+          "hash": "4RwrCpfiCFwtpaEEEKH9hRdveMV4TgLRvyO+JOBoo58="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/SECURITY.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/SECURITY.html",
+          "hash": "DHA8AU7B+KDsCZo1KgepgCM9kclJkrGF6icaZ4Q6xKI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/bankid-architechture.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/bankid-architechture.html",
+          "hash": "YwJckw2hGpTHT9aG1mWgrVJL9nCTZMBxMSH22/Uc8uY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/bankid.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/bankid.html",
+          "hash": "QYbxPlf/nVlnZKLpv7tQ2yYbk6ey0iZN4bbPqZHljyg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/monitor.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/monitor.html",
+          "hash": "GLA9P4sLe5fUqkG8sdkGIUt1cP12sevrrpP+2LeFnzc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "jVvzcyPXo/MBfZVQgiUoGG6NDd3JCp5HK55Dh1SBWiI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/active-login-logo-fingerprint-blue-v2-256x256.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/active-login-logo-fingerprint-blue-v2-256x256.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "images/favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "WJ/mdLeDJW/y5zSWwggV6hDdMcmthav5gLYEmlb0Hb4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "bPvDVLS/9YeTZbBuTTT9KuCvx4sgyUYUCvqJLk4xPKo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 10,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 218,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
